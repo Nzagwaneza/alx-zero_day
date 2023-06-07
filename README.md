@@ -1,2 +1,2 @@
-My first readme is n0w edited.
+My first readme is now edited.
 Things are all well.
